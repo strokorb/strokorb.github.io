@@ -448,7 +448,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-congratulations-to-eferhonore-efe-eyefia-on-his-successful-phd-viva-eferhonore-s-work-on-simulation-of-rainfall-events-was-supported-by-a-tertiary-education-trust-fund",
+            },},{id: "news-congratulations-to-jonas-brehmer-on-his-successful-phd-viva-jonas-work-on-theory-and-methodology-of-scoring-functions-tail-properties-interval-forecasts-and-point-processes-has-led-to-several-publications-including-why-scoring-rules-cannot-assess-tail-properties-ejs-2019-scoring-interval-forecasts-equal-tailed-shortest-and-model-interval-bernoulli-2021-and-comparative-evaluation-of-point-process-forecasts-aism-2024",
+          title: 'Congratulations to Jonas Brehmer on his successful PhD viva! Jonas’ work on Theory...',
+          description: "",
+          section: "News",},{id: "news-congratulations-to-eferhonore-efe-eyefia-on-his-successful-phd-viva-eferhonore-s-work-on-simulation-of-rainfall-events-was-supported-by-a-tertiary-education-trust-fund",
           title: 'Congratulations to Eferhonore Efe-Eyefia on his successful PhD viva! Eferhonore’s work on Simulation...',
           description: "",
           section: "News",},{id: "news-accepted-invited-paper-session-advances-in-high-dimensional-extreme-value-statistics-at-the-65th-isi-world-statistics-congress-2025",
