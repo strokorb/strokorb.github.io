@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 **Congratulations** to Eferhonore Efe-Eyefia on his successful PhD viva! Eferhonore's work on _Simulation of Rainfall Events_ was supported by a Tertiary Education Trust Fund.
-
