@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 7 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
@@ -31,7 +31,7 @@ This website is under construction.
 
 My research focus lies on multivariate, spatial and temporal dependence phenomena in extreme value theory. The latter is a branch of probability and statistics that provides theoretically sound procedures for the quantitative assessment of rare and typically hazardous events (as good as possible, knowing the limitations is also an important issue). Its methods are genuinely relevant for institutions, who wish to assess risk exposures in a quantitive data-driven way.
 
-#### Recent roles and responsibilities
+### recent roles and responsibilities
 
 - Member of the editorial boards of the journals [Extremes](https://link.springer.com/journal/10687) (since 2017) and [Stochastic Models](https://www.tandfonline.com/journals/lstm20/) (since 2020)
 - Initiator and Chair of the [One World Extremes seminar](https://sites.google.com/view/ow-extremes/) (2020-2023)
