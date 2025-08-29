@@ -448,8 +448,17 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-congratulations-to-jonas-brehmer-on-his-successful-phd-viva-jonas-work-on-theory-and-methodology-of-scoring-functions-tail-properties-interval-forecasts-and-point-processes-has-led-to-several-publications-including-why-scoring-rules-cannot-assess-tail-properties-ejs-2019-scoring-interval-forecasts-equal-tailed-shortest-and-model-interval-bernoulli-2021-and-comparative-evaluation-of-point-process-forecasts-aism-2024",
+            },},{id: "news-rss-discussion-on-12-february-2020-the-royal-statistical-society-hosted-a-meeting-to-discuss-the-forth-coming-paper-graphical-models-for-extremes-by-sebastian-engelke-and-adrien-hitz-here-is-the-link-to-the-slides-and-the-extended-version-of-my-discussion-contribution-including-the-proofs",
+          title: 'RSS discussion: On 12 February 2020 the Royal Statistical Society hosted a meeting...',
+          description: "",
+          section: "News",},{id: "news-congratulations-to-jonas-brehmer-on-his-successful-phd-viva-jonas-work-on-theory-and-methodology-of-scoring-functions-tail-properties-interval-forecasts-and-point-processes-has-led-to-several-publications-including-why-scoring-rules-cannot-assess-tail-properties-ejs-2019-scoring-interval-forecasts-equal-tailed-shortest-and-model-interval-bernoulli-2021-and-comparative-evaluation-of-point-process-forecasts-aism-2024",
           title: 'Congratulations to Jonas Brehmer on his successful PhD viva! Jonas’ work on Theory...',
+          description: "",
+          section: "News",},{id: "news-accepted-invited-paper-session-extreme-value-statistics-at-the-63rd-isi-world-statistics-congress-2021",
+          title: 'Accepted: Invited Paper Session Extreme value statistics at the 63rd ISI World Statistics...',
+          description: "",
+          section: "News",},{id: "news-organised-workshops-on-extremal-trends-in-weather-wet-weather-the-second-edition-took-place-19-21-september-2022-jointly-with-marie-ekström-and-owen-jones-the-workshops-were-supported-by-the-rss-mardia-award-for-interdisciplinary-research-meetings-the-knowledge-exchange-enhancement-of-the-second-meeting-has-been-supported-by-an-innovation-for-all-grant-here-is-a-brief-summary-of-the-second-meeting-and-a-short-summary-of-the-first-meeting-many-thanks-for-everyone-s-contributions",
+          title: 'Organised: Workshops on Extremal Trends in Weather (WET Weather) - the second edition...',
           description: "",
           section: "News",},{id: "news-congratulations-to-eferhonore-efe-eyefia-on-his-successful-phd-viva-eferhonore-s-work-on-simulation-of-rainfall-events-was-supported-by-a-tertiary-education-trust-fund",
           title: 'Congratulations to Eferhonore Efe-Eyefia on his successful PhD viva! Eferhonore’s work on Simulation...',
