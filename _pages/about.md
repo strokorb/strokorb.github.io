@@ -29,6 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+My pronouns are she/her.
+
 *This website is under construction.*
 
 My research focus lies on multivariate, spatial and temporal dependence phenomena in extreme value theory. The latter is a branch of probability and statistics that provides theoretically sound procedures for the quantitative assessment of rare and typically hazardous events (as good as possible, knowing the limitations is also an important issue). Its methods are genuinely relevant for institutions, who wish to assess risk exposures in a quantitive data-driven way.
