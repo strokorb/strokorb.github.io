@@ -288,7 +288,7 @@ scholar:
 
   sort_by: year
   order: descending
-  type_order: [article, incollection, techreport, unpublished, phdthesis]
+  type_order: [techreport, unpublished, article, incollection, phdthesis]
   type_names: {unpublished: working papers, techreport: reports, article: journal articles, incollection: book chapters, phdthesis: theses}
 
 # Display different badges withs stats for your publications
