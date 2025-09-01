@@ -12,6 +12,12 @@ nav_order: 6
 - 2018 Fellow of the HEA (Advance HE, D2)
 - 2017 Baden-Wuerttemberg-Certificate (successful completion of a program in higher education pedagogy)
 
+**Nominated**
+
+- 2024 in Cardiff University’s Celebrating Excellence Awards (jointly with Ana Ros Camacho) for *Exceptional Enhancement of the Student Learning Experience*
+- 2024 in Cardiff University’s Enriching Student Life Awards
+for *Most Impactful and Outstanding Use of Assessment as Learning*
+
 **Teaching initiatives**
 
 - Initiator and Organiser of TEASER - TEAching-Supervision-Edi-foRum at Cardiff's School of Mathematics (jointly with Ana Ros Camacho)
@@ -46,7 +52,7 @@ Tutorials in
 - Analysis II
 - Discrete Mathematics
 
-**Other**
+Other
 
 - [Mentoring](http://www.damtp.cam.ac.uk/user/cbs31/m2_mentoring/M%5E2.html) for Bachelor and Master students
 - Assistance in creating lecture notes for [Mathematics for Biologists](http://www.springer.com/de/book/9783642418433)
