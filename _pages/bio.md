@@ -7,13 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-- 2025 - present: Senior Lecturer at the Department of Mathematical Sciences, University of Bath
-- 2020 - 2025: Senior Lecturer at the School of Mathematics, Cardiff University
-- 2017 - 2020: Lecturer at the School of Mathematics, Cardiff University
+- 2025 - present: **Senior Lecturer** at the Department of Mathematical Sciences, University of Bath
+- 2020 - 2025: **Senior Lecturer** at the School of Mathematics, Cardiff University
+- 2017 - 2020: **Lecturer** at the School of Mathematics, Cardiff University
 - 2013 - 2016: Research and Teaching assistant at Institute of Mathematics, University of Mannheim
 - Autumn 2015: Research stay at Department of Mathematical Sciences, University of Copenhagen
-- 2013: PhD (Dr. rer. nat., summa cum laude) at Institute of Mathematical Stochastics/RTG 1023, University of Goettingen
-- 2010: Diploma (Pure Mathematics, with distinction) at Mathematics Institute, University of Goettingen
+- 2013: **PhD** (Dr. rer. nat., summa cum laude) at Institute of Mathematical Stochastics/RTG 1023, University of Goettingen
+- 2010: **Diploma** (Pure Mathematics, with distinction) at Mathematics Institute, University of Goettingen
 - Autumn 06/Winter 07: Exchange student at Mathematics Institute, Warwick University
 
 **Honours and awards**
