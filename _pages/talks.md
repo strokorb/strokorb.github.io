@@ -9,7 +9,7 @@ nav_order: 6
 
 **2025:**
 
-- ExREC meeting “Extremes and Rare Events in Climate and related applications”, Reading (CMPE) - [slides](exrec_2025.pdf)
+- ExREC meeting “Extremes and Rare Events in Climate and related applications”, Reading (CMPE) - [slides](https://github.com/strokorb/strokorb.github.io/blob/main/assets/pdf/exrec_2025.pdf)
 
 **2024:**
 
