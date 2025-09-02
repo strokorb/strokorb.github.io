@@ -33,7 +33,7 @@ nav_order: 6
 - Conference on Adaptive and High-Dimensional Spatio-Temporal Methods for Forecasting, CIRM Luminy
 - Confernce on Heavy Tails, Long-Range Dependence, and Beyond, CIRM Luminy
 - BIRS Workshop on Combining Causal Inference and Extreme Value Theory in the Study of Climate Extremes and their Causes, UBC’s Okanagan campus, online
-- Energy Forecasting Innovation Conference (Software training), King's College London
+- Energy Forecasting Innovation Conference ([Software training](https://b2drop.eudat.eu/s/ebCQXCQaGiqjitR)), King's College London
 - Probability webinar, King's College London, online
 
 **2021:**
