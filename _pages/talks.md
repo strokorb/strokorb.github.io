@@ -7,11 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-*2025:*
+**2025:**
 
-- ExREC meeting “Extremes and Rare Events in Climate and related applications”, Reading (CMPE) 
+- ExREC meeting “Extremes and Rare Events in Climate and related applications”, Reading (CMPE) - [slides](exrec_2025.pdf)
 
-*2024:*
+**2024:**
 
 - Eurandom workshop on graph Laplacians, multivariate extremes and algebraic statistics (Nov)
 - Seminar at University of Geneva (Oct)
@@ -23,12 +23,12 @@ nav_order: 6
 - UCL Statistical Science Seminar (May)
 - Birmingham Seminar, Topology and Dynamics group (May)
 
-*2023:*
+**2023:**
 
 - Workshop New Perspectives in the Theory of Extreme Values, Inter-University Center Dubrovnik
 - 29th Nordic Conference in Mathematical Statistics, NORDSTAT 2023, Gothenburg
 
-*2022:*
+**2022:**
 
 - Conference on Adaptive and High-Dimensional Spatio-Temporal Methods for Forecasting, CIRM Luminy
 - Confernce on Heavy Tails, Long-Range Dependence, and Beyond, CIRM Luminy
@@ -36,14 +36,14 @@ nav_order: 6
 - Energy Forecasting Innovation Conference (Software training), King's College London
 - Probability webinar, King's College London, online
 
-*2021:*
+**2021:**
 
 - Statistics webinar, King's College London, online
 - German Probability and Statistics Days, Mannheim, online
 - Seminar of the RTG 2121, Universitäten Bochum-Dortmund-Essen, online
 - Statistics seminar, Imperial College London, online
 
-*2019:*
+**2019:**
 
 - CFE-CMStatistics, London
 - Stochastics Research Seminar, Mannheim
@@ -53,7 +53,7 @@ nav_order: 6
 - Statistics seminar, University of St Andrews
 - Stochastisches Kolloquium, University of Göttingen
 
-*2018:*
+**2018:**
 
 - Extreme TiDE seminar, Tilburg University
 - Statistics and Probability Seminar, University of Nottingham
@@ -61,21 +61,21 @@ nav_order: 6
 - BIRS-CMO Workshop on Self-similarity, Long-range dependence and Extremes, Oaxaca
 - 40th Conference on Stochastic Processes and their Applications, Gothenburg
 
-*2017:*
+**2017:**
 
 - CFE-CMStatistics, London
 - Stochastics Research Seminar, Mannheim
 - Oberseminar Stochastik, Braunschweig
 - 10th Conference on Extreme Value Analysis, Delft
 
-*2016:*
+**2016:**
 
 - German Statistical Week (Minisymposium on EVT), Augsburg
 - 3rd Conference of the International Society of Non-Parametric Statistics, Avignon
 - Working group Extreme Value Theory UPMC Paris 6
 - Workshop on Dependence, Stability and Extremes, Fields Institute Toronto
 
-*2015:*
+**2015:**
 
 - Seminar in Applied Mathematics and Statistics, Copenhagen
 - The Mathematics and Statistics of Quantitative Risk Management, Oberwolfach
