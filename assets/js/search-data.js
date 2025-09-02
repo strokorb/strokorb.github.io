@@ -59,15 +59,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-rss-discussion-on-12-february-2020-the-royal-statistical-society-hosted-a-meeting-to-discuss-the-forth-coming-paper-graphical-models-for-extremes-by-sebastian-engelke-and-adrien-hitz-here-is-the-link-to-the-slides-and-the-extended-version-of-my-discussion-contribution-including-the-proofs",
+      },{id: "news-rss-discussion-on-12-february-2020-the-royal-statistical-society-hosted-a-meeting-to-discuss-the-forth-coming-paper-graphical-models-for-extremes-by-sebastian-engelke-and-adrien-hitz-here-is-the-link-to-the-slides-and-the-extended-version-of-my-discussion-contribution-including-the-proofs",
           title: 'RSS discussion: On 12 February 2020 the Royal Statistical Society hosted a meeting...',
           description: "",
           section: "News",},{id: "news-congratulations-to-jonas-brehmer-on-his-successful-phd-viva-jonas-work-on-theory-and-methodology-of-scoring-functions-tail-properties-interval-forecasts-and-point-processes-has-led-to-several-publications-including-why-scoring-rules-cannot-assess-tail-properties-ejs-2019-scoring-interval-forecasts-equal-tailed-shortest-and-model-interval-bernoulli-2021-and-comparative-evaluation-of-point-process-forecasts-aism-2024",
