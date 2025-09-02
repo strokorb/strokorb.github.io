@@ -9,15 +9,15 @@ nav_order: 6
 
 **2025:**
 
-- ExREC meeting “Extremes and Rare Events in Climate and related applications”, Reading (CMPE) - [slides](https://github.com/strokorb/strokorb.github.io/blob/main/assets/pdf/exrec_2025.pdf)
+- ExREC meeting “Extremes and Rare Events in Climate and related applications”, Reading (CMPE) - [slides: spatial excursions](https://b2drop.eudat.eu/s/FF7erjiTL36FfKT)
 
 **2024:**
 
 - Eurandom workshop on graph Laplacians, multivariate extremes and algebraic statistics (Nov)
 - Seminar at University of Geneva (Oct)
 - Seminar at University of Lausanne (Sep)
-- Oberwolfach Workshop 2434 - Mathematics, Statistics, and Geometry of Extreme Events in High Dimensions (Aug)
-- Bernoulli-IMS World Congress in Probability and Statistics (Aug)
+- Oberwolfach Workshop 2434 - Mathematics, Statistics, and Geometry of Extreme Events in High Dimensions (Aug) - [slides: stochastic ordering](https://b2drop.eudat.eu/s/KLW8LN9DTDdixod)
+- Bernoulli-IMS World Congress in Probability and Statistics (Aug) - [slides: graphical models](https://b2drop.eudat.eu/s/figK4zpHQ7KDtyz)
 - Oberseminar Stochastik OVGU Magdeburg (Jun)
 - Statistics Seminar at Lancaster University (Jun)
 - UCL Statistical Science Seminar (May)
