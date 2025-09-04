@@ -9,14 +9,14 @@ nav_order: 6
 
 **Qualifications**
 
-- 2018 Fellow of the HEA (Advance HE, D2)
-- 2017 Baden-Wuerttemberg-Certificate (successful completion of a program in higher education pedagogy)
+- 2018 Fellow of the HEA ([Advance HE, D2](https://www.advance-he.ac.uk/fellowship/fellowship))
+- 2017 [Baden-Württemberg-Certificate](https://www.hdz-bawue.de/en/baden-wuerttemberg-certificate-for-teaching-and-learning-at-university-level/) (successful completion of a program in higher education pedagogy)
 
 **Nominated**
 
-- 2024 in Cardiff University’s Celebrating Excellence Awards (jointly with Ana Ros Camacho) for *Exceptional Enhancement of the Student Learning Experience*
-- 2024 in Cardiff University’s Enriching Student Life Awards
-for *Most Impactful and Outstanding Use of Assessment as Learning*
+- 2024 for *Exceptional Enhancement of the Student Learning Experience* in Cardiff University’s Celebrating Excellence Awards (jointly with Ana Ros Camacho) 
+- 2024 for *Most Impactful and Outstanding Use of Assessment as Learning* in Cardiff University’s Enriching Student Life Awards
+
 
 **Teaching initiatives**
 
@@ -28,7 +28,7 @@ for *Most Impactful and Outstanding Use of Assessment as Learning*
 
 **Cardiff**
 
-I joined Cardiff University as a lecturer in 2017 teaching on the newly introduced [Financial Mathematics](https://www.cardiff.ac.uk/study/undergraduate/courses/2018/financial-mathematics-bsc) degree scheme developing three new modules.
+I joined Cardiff University as a lecturer in 2017 teaching on the newly introduced [Financial Mathematics](https://www.cardiff.ac.uk/study/undergraduate/courses/2018/financial-mathematics-bsc) degree scheme developing three new modules:
 
 - MA3805 Quantitative Risk Management (new module)
 - MA2801 Econometrics for Financial Mathematics (new module)
