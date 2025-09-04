@@ -20,6 +20,9 @@ nav_order: 6
 
 - 2024 [Oberwolfach Research Fellow](https://publications.mfo.de/handle/mfo/4206) together with Marco Oesting and Raphael de Fondeville
 - 2023 [Excellence in Research](https://www.cardiff.ac.uk/news/view/2800645-reflecting-on-triumphs-celebrating-our-2023-achievements) award in Cardiff University’s Celebrating Excellence Awards
-- 2020 Nominated for the Philip Leverhulme Prize (The Leverhulme Trust) by the School of Mathematics, Cardiff University
 - 2018 [Mardia Interdisciplinary Workshop Prize](https://rss.org.uk/news-publication/news-publications/2018/general-news/2018-mardia-prize-to-support-extreme-weather-resea/) by the Royal Statistical Society, awarded to K. Strokorb (PI), M. Ekström and O. Jones (Cardiff University)
-- 2014 Nominated for the Dissertation prize of the Universtitätsbund Göttingen e.V. by the Faculty of Mathematics and Computer Science, University of Göttingen
+
+
+[//]: # (- 2020 Nominated for the Philip Leverhulme Prize (The Leverhulme Trust) by the School of Mathematics, Cardiff University)
+
+[//]: # (- 2014 Nominated for the Dissertation prize of the Universtitätsbund Göttingen e.V. by the Faculty of Mathematics and Computer Science, University of Göttingen)
