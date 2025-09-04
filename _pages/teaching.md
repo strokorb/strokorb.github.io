@@ -10,7 +10,7 @@ nav_order: 6
 **Qualifications**
 
 - 2018 Fellow of the HEA ([Advance HE, D2](https://www.advance-he.ac.uk/fellowship/fellowship))
-- 2017 [Baden-Württemberg-Certificate](https://www.hdz-bawue.de/en/baden-wuerttemberg-certificate-for-teaching-and-learning-at-university-level/) (successful completion of a program in higher education pedagogy)
+- 2017 [Baden-Württemberg-Certificate](https://www.hdz-bawue.de/en/baden-wuerttemberg-certificate-for-teaching-and-learning-at-university-level/) for Teaching and Learning at University Level
 
 **Nominated**
 
