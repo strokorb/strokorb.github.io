@@ -35,7 +35,6 @@ My research focus lies on multivariate, spatial and temporal dependence phenomen
 
 ### recent roles and responsibilities
 
-- Member of the editorial boards of the journals [Extremes](https://link.springer.com/journal/10687) (since 2017) and [Stochastic Models](https://www.tandfonline.com/journals/lstm20/) (since 2020)
 - Initiator and Chair of the [One World Extremes seminar](https://sites.google.com/view/ow-extremes/) (2020-2023)
 - Deputy Director of Postgraduate Research (2019-2025 Cardiff School of Mathematics)
 - Member of the School's Athena Swan Self-Assessment Team (2023/24), successfully applying for a [Silver Award](https://www.cardiff.ac.uk/news/view/2806971-silver-athena-swan-triumph-for-our-school) (Cardiff School of Mathematics 2024)
