@@ -25,8 +25,7 @@ nav_order: 6
 |              | *Simulation of rainfall events*                                              |
 |--------------|------------------------------------------------------------------------------|
 |2017-2020     | Jonas R. Brehmer (Co-supervisor, PhD awarded 2020 “summa cum laude”; jointly with Martin Schlather and Tilmann Gneiting)         |
-|              | *Theory and methodology of scoring functions:*                               |
-|              | *Tail properties, interval forecasts, and point processes*                   |
+|              | *Theory and methodology of scoring functions: Tail properties, interval forecasts, and point processes*                               |
 |--------------|------------------------------------------------------------------------------|
 |2014-2017     | Martin Dirrler (Co-supervisor, PhD awarded 2017; jointly with Martin Schlather)                             |
 |              | *Spatial point process models with applications to max-stable random fields* |
