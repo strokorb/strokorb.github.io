@@ -9,6 +9,7 @@ nav_order: 6
 
 **2025:**
 
+- Seminar (AP) at Warwick University (Sep) - [slides: graphical models](https://b2drop.eudat.eu/s/iXSfDRb9oFESKiP)
 - ExREC meeting “Extremes and Rare Events in Climate and related applications”, Reading (CMPE) - [slides: spatial excursions](https://b2drop.eudat.eu/s/FF7erjiTL36FfKT)
 
 **2024:**
