@@ -40,3 +40,5 @@ Grant reviews for
 - [DFG](https://www.dfg.de/en/index.jsp)
 - [EPSRC](https://www.ukri.org/councils/epsrc/)
 - Other
+
+PhD examinations (internal and external)
