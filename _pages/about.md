@@ -14,6 +14,7 @@ profile:
     <p>University of Bath</p>
     <p>Bath BA2 7AY</p>
     <p>United Kingdom</p>
+    <p>Office hour: Fri 9:15-10:05</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
