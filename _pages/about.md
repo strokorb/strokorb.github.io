@@ -34,7 +34,7 @@ I am a Senior Lecturer in Statistics at the [University of Bath](https://www.bat
 
 My research focus lies on multivariate, spatial and temporal dependence phenomena in extreme value theory. The latter is a branch of probability and statistics that provides theoretically sound procedures for the quantitative assessment of rare and typically hazardous events under plausible regularity assumptions. Its methods are genuinely relevant for institutions, who wish to assess risk exposures in a quantitive data-driven way.
 
-**Currently hiring:** [PhD position](https://www.findaphd.com/phds/project/spatio-temporal-stochastic-processes-for-modelling-climate-extremes/?p188090) "Spatio-temporal stochastic processes for modelling climate extremes" 
+**Currently hiring:** [PhD position](https://www.findaphd.com/phds/project/spatio-temporal-stochastic-processes-for-modelling-climate-extremes/?p188090) "Spatio-temporal stochastic processes for modelling climate extremes" - Please get in touch if you are interested!
 
 ### recent roles and responsibilities
 
