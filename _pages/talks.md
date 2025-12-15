@@ -12,6 +12,7 @@ nav_order: 6
 - [GLE$^2$N Workshop](https://glen-scotland.github.io/glen/workshop.html), University of Glasgow (11 Dec)
 - Joint SDS and CSDC seminar - University of Exeter (12 Nov)
 - One-World-Extremes seminar [(online 23 Oct)](https://sites.google.com/view/ow-extremes/past)
+- Statistics seminar, University of Bath (17 Oct)
 - Seminar (AP) at Warwick University (24 Sep) - [slides: graphical models](https://b2drop.eudat.eu/s/iXSfDRb9oFESKiP)
 - ExREC meeting “Extremes and Rare Events in Climate and related applications” 18 Jun, Reading (CMPE) - [slides: spatial excursions](https://b2drop.eudat.eu/s/FF7erjiTL36FfKT)
 
