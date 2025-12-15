@@ -22,6 +22,7 @@ Reviewing for peer-reviewed scientific journals:
 - [Electronic Journal of Probability](https://www.emis.de/journals/EJP-ECP/index-6.html)
 - [Electronic Journal of Statistics](https://imstat.org/journals-and-publications/electronic-journal-of-statistics/)
 - [Extremes](https://link.springer.com/journal/10687)
+- [Insurance: Mathematics and Economics](https://www.sciencedirect.com/journal/insurance-mathematics-and-economics)
 - [Journal of Mathematical Analysis and Applications](https://www.journals.elsevier.com/journal-of-mathematical-analysis-and-applications/)
 - [Journal of Multivariate Analysis](https://www.journals.elsevier.com/journal-of-multivariate-analysis/)
 - [Journal of Nonparametric Statistics](http://www.tandfonline.com/toc/gnst20/current)

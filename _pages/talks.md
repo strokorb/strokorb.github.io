@@ -9,6 +9,7 @@ nav_order: 6
 
 **2025:**
 
+- [GLE$^2$N Workshop](https://glen-scotland.github.io/glen/workshop.html), University of Glasgow (11 Dec)
 - Joint SDS and CSDC seminar - University of Exeter (12 Nov)
 - One-World-Extremes seminar [(online 23 Oct)](https://sites.google.com/view/ow-extremes/past)
 - Seminar (AP) at Warwick University (24 Sep) - [slides: graphical models](https://b2drop.eudat.eu/s/iXSfDRb9oFESKiP)
