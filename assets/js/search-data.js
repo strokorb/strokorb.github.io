@@ -81,6 +81,9 @@ ninja.data = [{
           section: "News",},{id: "news-accepted-our-paper-on-graphical-models-for-infinite-measures-with-applications-to-extremes-sebastian-engelke-jevgenijs-ivanovs-kirstin-strokorb-has-been-accepted-for-publication-in-the-annals-of-applied-probability-a-presentation-of-the-general-framework-can-be-found-here-some-novelties-in-the-paper-that-are-not-in-the-talk-a-hammersley-clifford-type-theorem-and-an-asymptotic-independent-example-also-thank-you-for-the-opportunity-to-present-this-work-at-ucl-statistical-science-seminar",
           title: 'Accepted: Our paper on Graphical models for infinite measures with applications to extremes...',
           description: "",
+          section: "News",},{id: "news-new-preprint-information-geometry-driven-graph-sequential-growth-joint-work-with-phd-student-harry-t-bond-and-bertrand-gauthier-available-on-arxiv-2601-22106-harry-s-research-is-supported-by-dtp-2224-at-the-school-of-mathematics-of-cardiff-university-ukri-grant-ep-w524682-1",
+          title: 'New Preprint: Information-geometry-driven graph sequential growth (joint work with PhD student Harry T....',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
