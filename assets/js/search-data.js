@@ -84,6 +84,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-information-geometry-driven-graph-sequential-growth-joint-work-with-phd-student-harry-t-bond-and-bertrand-gauthier-available-on-arxiv-2601-22106-harry-s-research-is-supported-by-dtp-2224-at-the-school-of-mathematics-of-cardiff-university-ukri-grant-ep-w524682-1",
           title: 'New Preprint: Information-geometry-driven graph sequential growth (joint work with PhD student Harry T....',
           description: "",
+          section: "News",},{id: "news-joining-soon-i-am-looking-forward-to-working-with-elena-paglierani-on-spatio-temporal-stochastic-processes-for-modelling-climate-extremes-she-will-start-her-phd-in-bath-in-september-2026",
+          title: 'Joining soon: I am looking forward to working with Elena Paglierani on Spatio-temporal...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
