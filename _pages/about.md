@@ -30,8 +30,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Currently hiring:** [PhD position](https://www.findaphd.com/phds/project/spatio-temporal-stochastic-processes-for-modelling-climate-extremes/?p188090) "Spatio-temporal stochastic processes for modelling climate extremes" - Please get in touch if you are interested!
-
 I am a Senior Lecturer in Statistics at the [University of Bath](https://www.bath.ac.uk/), where I joined the [Statistics research group](https://www.bath.ac.uk/research-groups/statistics/) of the [Department of Mathematical Sciences](https://www.bath.ac.uk/departments/department-of-mathematical-sciences/) in 2025. Previously, I was a Senior Lecturer in the [School of Mathematics](https://www.cardiff.ac.uk/mathematics) of Cardiff University.
 
 My research focus lies on multivariate, spatial and temporal dependence phenomena in extreme value theory. The latter is a branch of probability and statistics that provides theoretically sound procedures for the quantitative assessment of rare and typically hazardous events under plausible regularity assumptions. Its methods are genuinely relevant for institutions, who wish to assess risk exposures in a quantitive data-driven way.
