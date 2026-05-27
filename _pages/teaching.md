@@ -26,6 +26,10 @@ nav_order: 6
 
 - [Modeling and statistical analysis in extremes in time series](https://sites.google.com/view/extreme2023) - [PhD School](https://www.math.ku.dk/english/calendar/events/modeling-and-statistical-analysis/) at the Faculty of SCIENCE at University of Copenhagen
 
+**Bath**
+
+- MA32024: Statistical modelling and data analytics 3B (new module) - Spatial statistics
+
 **Cardiff**
 
 I joined Cardiff University as a lecturer in 2017 teaching on the newly introduced [Financial Mathematics](https://www.cardiff.ac.uk/study/undergraduate/courses/2018/financial-mathematics-bsc) degree scheme developing three new modules:
