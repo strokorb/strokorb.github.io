@@ -87,6 +87,9 @@ ninja.data = [{
           section: "News",},{id: "news-joining-soon-i-am-looking-forward-to-working-with-elena-paglierani-on-spatio-temporal-stochastic-processes-for-modelling-climate-extremes-she-will-start-her-phd-in-bath-in-september-2026",
           title: 'Joining soon: I am looking forward to working with Elena Paglierani on Spatio-temporal...',
           description: "",
+          section: "News",},{id: "news-accepted-our-paper-on-domain-scaled-regular-variation-mathematical-foundations-for-a-new-tail-approximation-jointly-with-marco-oesting-and-raphaël-de-fondeville-has-been-accepted-for-publication-in-stochastic-processes-and-their-applications",
+          title: 'Accepted: Our paper on Domain-scaled regular variation: Mathematical foundations for a new tail...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
