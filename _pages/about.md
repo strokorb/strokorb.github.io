@@ -39,7 +39,7 @@ My research focus lies on multivariate, spatial and temporal dependence phenomen
 - Initiator and Chair of the [One World Extremes seminar](https://sites.google.com/view/ow-extremes/) (2020-2023)
 - Deputy Director of Postgraduate Research (2019-2025 Cardiff School of Mathematics)
 - Member of the School's Athena Swan Self-Assessment Team (2023/24), successfully applying for a [Silver Award](https://www.cardiff.ac.uk/news/view/2806971-silver-athena-swan-triumph-for-our-school) (Cardiff School of Mathematics 2024)
-- Member of Scientific Committees: [BMC 2026](https://strokorb.github.io/bmc2026-probability), [EVA 2023](https://dec.unibocconi.eu/research/extreme-value-analysis-eva-2023), [DYNSTOCH 2023](https://sites.google.com/view/dynstoch23/home), [EVA 2021](https://maths.ed.ac.uk/events/past-events/eva-2021) 
+- Member of Scientific Committees: [EVA 2027](https://hecsciencesdecision.github.io/eva2027/), [BMC 2026](https://strokorb.github.io/bmc2026-probability), [EVA 2023](https://dec.unibocconi.eu/research/extreme-value-analysis-eva-2023), [DYNSTOCH 2023](https://sites.google.com/view/dynstoch23/home), [EVA 2021](https://maths.ed.ac.uk/events/past-events/eva-2021) 
 - Organiser of the School's [Statistics seminar series](https://cardiff-psom-seminar.weebly.com) (2019-2022)
 - Member of the [Bernoulli Society](https://www.bernoullisociety.org), [RSS](https://rss.org.uk), [LMS](https://www.lms.ac.uk), [DMV](https://www.mathematik.de), [MO-NI](https://www.mo-ni.de), [eLeMeNTe](https://www.elemente.org) and [MO e.V.](https://www.mathematik-olympiaden.de/moev/index.php)
 
