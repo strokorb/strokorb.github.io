@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-**Accepted:** Our paper on *Domain-scaled regular variation: Mathematical foundations for a new tail approximation* (jointly with Marco Oesting and Raphaël de Fondeville)  has been accepted for publication in Stochastic Processes and their Applications.
+**Accepted:** Our [paper](https://www.sciencedirect.com/science/article/pii/S0304414926001365?via%3Dihub) on *Domain-scaled regular variation: Mathematical foundations for a new tail approximation* (jointly with Marco Oesting and Raphaël de Fondeville)  has been accepted for publication in Stochastic Processes and their Applications.
 
 
