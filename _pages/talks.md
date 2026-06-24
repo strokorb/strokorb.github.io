@@ -6,6 +6,9 @@ description:
 nav: true
 nav_order: 6
 ---
+**2026:**
+
+- [LMS Invited Lecture Series 2026](https://sites.google.com/view/lmsinvlect2026), University of Liverpool (23 June) - [slides: DSRV](https://b2drop.eudat.eu/s/ZKaCxnPskHFcdkP)
 
 **2025:**
 
