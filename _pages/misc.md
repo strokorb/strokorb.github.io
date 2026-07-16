@@ -15,5 +15,5 @@ nav_order: 6
     </div>
 </div>
 <div class="caption">
-    This video shows the variance functions of a range of random fields, all of which share an identical variogram, following the construction described in {% cite_details MR3881113 --text "this paper" %}.
+    This video shows the variance functions of a range of random fields, all of which share an identical variogram, following the construction described in <a href="{{ '/publications/' | relative_url }}#MR3881113">this paper</a>, with an accompanying talk available <a href="https://dx.doi.org/10.14288/1.0377157" target="_blank">here</a>.
 </div>
