@@ -7,13 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-Lost and found whilst cleaning up my laptop:
+**Lost and found** while cleaning up my laptop:
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mx-auto mt-3 mt-md-0">
         {% include video.liquid path="assets/video/changingvariance_identicalvariogram.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
-    This video shows the variance functions of a range of random fields, all of which share an identical variogram. 
+    This video shows the variance functions of a range of random fields, all of which share an identical variogram, following the construction described in {% cite_details MR3881113 --text "this paper" %}.
 </div>
