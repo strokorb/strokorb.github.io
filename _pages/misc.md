@@ -9,7 +9,7 @@ nav_order: 6
 
 **Lost and found** while cleaning up my laptop: 
 
-The flower power of reduced variance:
+The flower power of reduced variance (wait 15 seconds):
 
 <div class="row mt-3">
     <div class="col-sm-8 mx-auto mt-3 mt-md-0">
