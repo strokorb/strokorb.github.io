@@ -25,8 +25,8 @@ Sierpiński meets Penrose:
 
 <div class="row justify-content-center">
     <div class="col-sm-8 d-flex justify-content-center gap-3 mt-3 mt-md-0">
-        <img src="/assets/img/sierpinski_penrose.jpg" class="img-fluid rounded z-depth-1" alt="color version" style="max-width: 45%;">
-        <img src="/assets/img/sierpinski_penrose_sw.jpg" class="img-fluid rounded z-depth-1" alt="black and white version" style="max-width: 45%;">
+        <img src="/assets/img/sierpinski_penrose.jpg" class="img-fluid rounded z-depth-1" alt="color version" style="max-width: 49%;">
+        <img src="/assets/img/sierpinski_penrose_sw.jpg" class="img-fluid rounded z-depth-1" alt="black and white version" style="max-width: 49%;">
     </div>
 </div>
 
