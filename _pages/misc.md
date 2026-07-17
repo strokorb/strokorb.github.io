@@ -30,5 +30,5 @@ Sierpiński meets Penrose:
     </div>
 </div>
 <div class="caption">
-    [Sierpiński meets Penrose], created with [GeoGebra](https://www.geogebra.org/) during my undergraduate years (c. 2007), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+    [Sierpiński meets Penrose], created with [GeoGebra](https://www.geogebra.org/) during my undergraduate years (c. 2007). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 </div>
