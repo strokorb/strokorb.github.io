@@ -7,7 +7,9 @@ nav: true
 nav_order: 6
 ---
 
-**Lost and found** while cleaning up my laptop: The flower power of reduced variance:
+**Lost and found** while cleaning up my laptop: 
+
+The flower power of reduced variance:
 
 <div class="row mt-3">
     <div class="col-sm-8 mx-auto mt-3 mt-md-0">
@@ -17,3 +19,17 @@ nav_order: 6
 <div class="caption">
     This video shows the variance functions of a range of random fields, all of which share an identical variogram, following the construction described in <a href="{{ '/publications/' | relative_url }}#variance reduction">this paper</a>, with an accompanying talk available <a href="https://dx.doi.org/10.14288/1.0377157" target="_blank">here</a>.
 </div>
+
+Sierpiński meets Penrose:
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/sierpinski_penrose.jpg" title="color version" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/sierpinski_penrose_sw.jpg" title="black and white version" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+*[Sierpiński meets Penrose], created with [GeoGebra](https://www.geogebra.org/) during my undergraduate years (c. 2007), in colour and black-and-white versions.
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — feel free to reuse with attribution.*
