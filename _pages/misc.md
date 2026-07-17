@@ -29,6 +29,6 @@ Sierpiński meets Penrose:
         <img src="/assets/img/sierpinski_penrose_sw.jpg" class="img-fluid rounded z-depth-1" alt="black and white version" style="max-width: 49%;">
     </div>
 </div>
-
-*[Sierpiński meets Penrose], created with [GeoGebra](https://www.geogebra.org/) during my undergraduate years (c. 2007), in colour and black-and-white versions.
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — feel free to reuse with attribution.*
+<div class="caption">
+    [Sierpiński meets Penrose], created with [GeoGebra](https://www.geogebra.org/) during my undergraduate years (c. 2007), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+</div>
