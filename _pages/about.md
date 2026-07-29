@@ -14,7 +14,7 @@ profile:
     <p>University of Bath</p>
     <p>Bath BA2 7AY</p>
     <p>United Kingdom</p>
-    <p>Office hour: Fri 15:15-16:05</p>
+    <p>Office hour: Tue 09:15-10:05</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -37,7 +37,7 @@ My research focus lies on multivariate, spatial and temporal dependence phenomen
 ### recent roles and responsibilities
 
 - Member of Scientific Committees: [EVA 2027](https://hecsciencesdecision.github.io/eva2027/), [BMC 2026](https://strokorb.github.io/bmc2026-probability), [EVA 2023](https://dec.unibocconi.eu/research/extreme-value-analysis-eva-2023), [DYNSTOCH 2023](https://sites.google.com/view/dynstoch23/home), [EVA 2021](https://maths.ed.ac.uk/events/past-events/eva-2021)
-- Deputy Director of Postgraduate Research (2019-2025 Cardiff School of Mathematics)
+- PGR Deputy Director of Studies (2026 Dept.\ of Mathematical Sciences in Bath); Deputy Director of Postgraduate Research (2019-2025 Cardiff School of Mathematics)
 - Initiator and Chair of the [One World Extremes seminar](https://sites.google.com/view/ow-extremes/) (2020-2023)
 - Member of the School's Athena Swan Self-Assessment Team (2023/24), successfully applying for a [Silver Award](https://www.cardiff.ac.uk/news/view/2806971-silver-athena-swan-triumph-for-our-school) (Cardiff School of Mathematics 2024) 
 - Organiser of the School's [Statistics seminar series](https://cardiff-psom-seminar.weebly.com) (2019-2022)
