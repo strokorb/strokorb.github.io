@@ -8,6 +8,7 @@ nav_order: 6
 ---
 **2026:**
 
+- BIRS workshop [Catastrophic Events in the Complex World: Mathematics & Statistics of extremes in the Age of Machine Learning](https://www.birs.ca/events/2026/5-day-workshops/26w5651), Banff (9-14 August 2026)
 - [LMS Invited Lecture Series 2026](https://sites.google.com/view/lmsinvlect2026), University of Liverpool (23 June) - [slides: DSRV](https://b2drop.eudat.eu/s/ZKaCxnPskHFcdkP)
 
 **2025:**
