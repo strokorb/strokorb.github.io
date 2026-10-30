@@ -29,6 +29,7 @@ nav_order: 6
 **Bath**
 
 - MA32024: Statistical modelling and data analytics 3B (new module) - Spatial statistics
+- MA22014: Statistics 2A (click [here](https://strokorb.github.io/simple-hypotheses-explorer/) for the simple hypotheses explorer)
 
 **Cardiff**
 
